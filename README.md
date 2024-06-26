@@ -1,5 +1,8 @@
 # ChatBot-using-Python-and-OpenAI
 
+![image](https://github.com/RuwanthiLakshika/ChatBot-using-Python-and-OpenAI/assets/125971277/381bd614-ff0f-41cc-bbe4-a789ba2190c4)
+
+
 This project is a simple chatbot implemented using OpenAI's GPT-3.5-Turbo model in Python. The chatbot interacts with users by taking their input and generating AI-driven responses until the user decides to end the conversation.
 
 ## Introduction       
